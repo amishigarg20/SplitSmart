@@ -2,6 +2,8 @@
 A group expense manager written in C. It tracks who paid what, works out each person's balance, and suggests the smallest set
 of payments to settle everyone up.
 
+Group Project built as part of our coursework 
+
 ## Features
 - Add expenses paid by any friend (2-10 friends)
 - View total spend, equal share and each person's balance
@@ -12,3 +14,8 @@ of payments to settle everyone up.
 ## How to run
 gcc main.c -o main
 ./main
+
+## Team
+- Amishi Garg
+- Shivangi Nigam
+- Vanya Srivastava 
