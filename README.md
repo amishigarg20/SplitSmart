@@ -2,7 +2,7 @@
 A group expense manager written in C. It tracks who paid what, works out each person's balance, and suggests the smallest set
 of payments to settle everyone up.
 
-Group Project built as part of our coursework 
+Group Project built as part of our coursework for Data Structures and Algorithms
 
 ## Features
 - Add expenses paid by any friend (2-10 friends)
